@@ -7,6 +7,7 @@
 - [x] Each person should have edited and committed changes in a readme.md file in their repository in our Github organization. The commits should show in Github.
 - [x] Each person should have explored at least one existing Python code base related to their project to evaluate using it in their project and submitted updates to the projectroadmap.md file explaining their findings. In evaluating your codebase, you should have read the code and attempted to run it yourself.
 
+#code to referance
 https://github.com/amansjot/finance-app
 
 #sprint 2
@@ -14,4 +15,15 @@ https://github.com/amansjot/finance-app
 - [] Start by importing the code 
 - [] Design a GUI and layout for the code to operate on 
 - [] Create a SQL database code structure plan 
-- [] ...
+- [] customize code to specifications
+
+#sprint 3
+
+- [] Edit, refine, and clean up code
+- [] Test and ensure clean operation
+- [] Testing QA
+
+#Final Presentation 
+
+- [] prepare doccumentation of working code
+- []
