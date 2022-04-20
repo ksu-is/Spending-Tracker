@@ -26,4 +26,6 @@ https://github.com/amansjot/finance-app
 #Final Presentation 
 
 - [] prepare doccumentation of working code
-- []
+- [] Schedule presentation in unconflicting timeslot in Teams Project channel
+- [] Record presentation in the Teams Project channel
+- [] Follow closeout proceedure
