@@ -11,7 +11,7 @@ https://github.com/amansjot/finance-app
 
 #sprint 2
 
-- [] Start by importing the code 
+- [x] Start by importing the code 
 - [] Design a GUI and layout for the code to operate on 
 - [] Create a SQL database code structure plan 
 - [] ...
