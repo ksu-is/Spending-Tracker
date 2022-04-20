@@ -9,6 +9,7 @@
 
 #code to referance
 https://github.com/amansjot/finance-app
+#and
 https://gist.github.com/Mozes721/52aff5260c59bff320638ecceb02b9ab.js
 
 #sprint 2
