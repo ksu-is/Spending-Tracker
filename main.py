@@ -1,12 +1,13 @@
 import sqlite3 as db
 import sys
 
+#main menu
 def init(time: int):
     conn = db.connect("expenses.db")
 
     if time == 0:
-        print("Hello! Welcome to your personal Finance Tracker.")
-        print("-----")
+        print("              Hello! Welcome to your personal Finance Tracker.")
+        print("--------------------------------------------------------------------------------")
         create_table(conn)
 
     print("R to record spendings/earnings, V to view spendings/earnings, or Q to quit")
@@ -27,6 +28,7 @@ def init(time: int):
         print("QUITQ")
         sys.exit()
 
+#SQL table creation
 def create_table(conn):
     """
     Creates database tables to set up program
@@ -52,6 +54,7 @@ def create_table(conn):
     cursor.execute(sql_earnings)
     conn.commit()
 
+#Dollar Format
 def to_dollar(amount: float):
     """
     Changes float to dollar currency format
@@ -61,6 +64,7 @@ def to_dollar(amount: float):
     dollar = '$' + str("{:,.2f}".format(amount))
     return dollar
 
+#Spending record function
 def record_spending(conn):
     """
     A function for the user to input data about a spending
@@ -86,6 +90,7 @@ def record_spending(conn):
 
     init(1)
 
+#Earnings record function
 def record_earning(conn):
     """
     A function for the user to input data about an earning
@@ -111,6 +116,7 @@ def record_earning(conn):
 
     init(1)
 
+#view databased dollars
 def view_finance(conn):
     """
     A function for the user to see their total spending/earning
