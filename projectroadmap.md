@@ -16,7 +16,7 @@ https://github.com/Mozes721/Expense_Tracker
 
 - [x] Start by importing the code 
 - [] Design a GUI and layout for the code to operate on 
-- [] Create a SQL database code structure plan 
+- [x] Create a SQL database code structure plan 
 - [] customize code to specifications
 
 #sprint 3
