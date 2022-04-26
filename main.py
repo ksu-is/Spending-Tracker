@@ -13,7 +13,7 @@ def init(time: int):
     print("R to record spendings/earnings, V to view spendings/earnings, or Q to quit")
     action = ""
     while action not in ["R", "V", "M", "Q"]:
-        action = input("What action would you like to perform? ").upper()
+        action = input("               What action would you like to perform? ").upper()
     if action == "R":
         ans = ""
         while ans not in ["S", "E"]:
