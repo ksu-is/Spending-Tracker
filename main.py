@@ -25,7 +25,7 @@ def init(time: int):
     elif action == "V":
         view_finance(conn)
     elif action == "Q":
-        print("QUITQ")
+        print("QUIT")
         sys.exit()
 
 #SQL table creation
