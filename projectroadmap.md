@@ -29,5 +29,5 @@ https://github.com/Mozes721/Expense_Tracker
 
 - [x] prepare doccumentation of working code
 - [x] Schedule presentation in unconflicting timeslot in Teams Project channel
-- [] Record presentation in the Teams Project channel
-- [] Follow closeout proceedure
+- [x] Record presentation in the Teams Project channel
+- [x] Follow closeout proceedure
