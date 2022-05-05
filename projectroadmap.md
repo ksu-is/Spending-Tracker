@@ -21,13 +21,13 @@ https://github.com/Mozes721/Expense_Tracker
 
 #sprint 3
 
-- [] Edit, refine, and clean up code
-- [] Test and ensure clean operation
-- [] Testing QA
+- [x] Edit, refine, and clean up code
+- [x] Test and ensure clean operation
+- [x] Testing QA
 
 #Final Presentation 
 
-- [] prepare doccumentation of working code
-- [] Schedule presentation in unconflicting timeslot in Teams Project channel
+- [x] prepare doccumentation of working code
+- [x] Schedule presentation in unconflicting timeslot in Teams Project channel
 - [] Record presentation in the Teams Project channel
 - [] Follow closeout proceedure
